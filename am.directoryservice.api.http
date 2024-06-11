@@ -1,0 +1,6 @@
+@am.directoryservice.api_HostAddress = http://localhost:5122
+
+GET {{am.directoryservice.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
